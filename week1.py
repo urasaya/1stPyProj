@@ -1,11 +1,11 @@
-#นางสาวอุรัสยา นาคเปรม 6109684768
-#เขียนPython code รับข้อมูลเข้ามาจำนวนหนึ่ง แล้วแสดงผลค่าสูงสุด ต่ำสุด และ ค่าเฉลี่ย ของข้อมูลชุดดังกล่าว
+#๊Urasaya Nakpram TU
+#Python code that received multiple value to find maximum minimum and average.
 import math
 x = list(map(int, input("Enter a multiple value: ").split()))
-#หาค่าสูงสุด
+#Find a maximum
 maximum = math.max(x)
-#หาค่าต่ำสุด
+#Find a minimum
 minimum = min(x)
-#หาค่าเฉลี่ย
+#Find a average
 avg = sum(x)/len(x)
 print("The maximum value is {:5.2f} The minimum value is {:5.2f} The average is {:5.2f}.".format(maximum,minimum,avg))
