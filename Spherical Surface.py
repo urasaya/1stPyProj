@@ -1,5 +1,4 @@
-#นาวสาวอุรัสยา นาคเปรม 6109684768
-#200407_15
+#Urasaya Nakpram
 import matplotlib as mpl
 from mpl_toolkits.mplot3d import Axes3D
 import numpy as np
