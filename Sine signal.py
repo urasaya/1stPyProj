@@ -1,5 +1,4 @@
-#นาวสาวอุรัสยา นาคเปรม 6109684768
-#200211_15
+#Urasaya Nakpram TU
 import numpy as np
 import matplotlib.pyplot as plt
 Frequency = float(input("Enter the Frequency (in Hz):"))
