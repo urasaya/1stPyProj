@@ -1,5 +1,4 @@
-#200414_15
-#นางสาวอุรัสยา นาคเปรม 6109684768
+#Urasaya Nakpram TU
 import numpy as np
 import matplotlib.pyplot as plt
 def NJ1(xi=0):
