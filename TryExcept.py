@@ -1,3 +1,4 @@
+#Urasaya Nakpram TU
 while True:
     try:
         a,b,c = input("Enter 3 value again:").split()
