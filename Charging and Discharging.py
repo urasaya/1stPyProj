@@ -1,5 +1,4 @@
-#นางสาวอุรัสยา นาคเปรม 6109684768
-#200227_15
+#Urasaya Nakpram TU
 import numpy as np
 import matplotlib.pyplot as plt
 #Check input
