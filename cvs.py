@@ -1,5 +1,4 @@
-#นางสาวอุรัสยา นาคเปรม 6109684768
-#200427_15_01
+#Urasaya Nakpram TU
 import time
 import os
 import numpy as np
