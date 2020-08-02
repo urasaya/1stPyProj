@@ -1,5 +1,4 @@
-#นางสาวอุรัสยา นาคเปรม 6109684768
-#200427_15_02
+#Urasaya Nakpram TU
 import os
 import csv
 import matplotlib.pyplot as plt
